@@ -1,0 +1,12 @@
+{
+  "name": "linux-tcp-states",
+  "version": "0.0.0",
+  "description": "Linux's TCP states numerals mapped to `netstat`-like human-readable strings and vice versa",
+  "author": "Maciej Małecki <me@mmalecki.com>",
+  "keywords": [
+    "linux",
+    "tcp",
+    "states"
+  ],
+  "license": "MIT"
+}
